@@ -175,7 +175,7 @@ This code package consists of three independent MATLAB `.m` files: `Box_Plot.m`,
 
 
 
-### **Cost_Performance_Model.m 使用说明（README）**
+### **Cost_Performance_Model.m 使用说明**
 
 #### **1. 文件简介**
 
